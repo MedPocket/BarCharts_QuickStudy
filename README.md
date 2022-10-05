@@ -1,5 +1,7 @@
 # BarCharts
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/BarCharts_QuickStudy?logo=github&label=Download)](https://github.com/MedPocket/BarCharts_QuickStudy/archive/refs/heads/main.zip)
+
 This repository includes documents from [BarCharts Publishing Inc](https://www.barcharts.com).
 
 QuickStudy® products provide medical and health reference books and guides at your fingertips that
